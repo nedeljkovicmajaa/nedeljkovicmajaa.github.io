@@ -1,95 +1,94 @@
----
-title: "Marija Nedeljković's CV"
-layout: default
----
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marija Nedeljković's CV</title>
-    <style>
-        body {
-            display: flex;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .sidebar {
-            width: 250px;
-            background-color: #f4f4f4;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            text-align: center;
-            position: fixed;
-            height: 100vh;
-        }
-        .sidebar img {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-            margin-bottom: 20px;
-        }
-        .sidebar a {
-            text-decoration: none;
-            color: #333;
-            margin: 10px 0;
-            font-weight: bold;
-        }
-        .content {
-            margin-left: 270px;
-            padding: 20px;
-            max-width: 800px;
-        }
-        .section {
-            margin-bottom: 40px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        @media (max-width: 768px) {
-            body {
-                flex-direction: column;
-            }
-            .sidebar {
-                width: 100%;
-                height: auto;
-                position: static;
-                padding-bottom: 20px;
-            }
-            .content {
-                margin-left: 0;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="sidebar">
-        <img src="your-photo.jpg" alt="Marija's photo">
-        <h1>Marija Nedeljković</h1>
-        <p><strong>Data Scientist | Machine Learning Enthusiast</strong></p>
-        <p>10 Mileve Marić, Kraljevo 36212, Serbia</p>
-        <p>📞 +381643304868</p>
-        <p>✉️ <a href="mailto:nedeljkovicmajaa@gmail.com">nedeljkovicmajaa@gmail.com</a></p>
-        <a href="https://www.linkedin.com/in/marija-nedeljkovic-b51328212/" target="_blank">LinkedIn</a> |
-        <a href="https://github.com/nedeljkovicmajaa" target="_blank">GitHub</a>
-        <hr>
-        <a href="#education">Education</a>
-        <a href="#publications">Publications</a>
-        <a href="#experience">Work Experience</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#conferences">Conferences</a>
-        <a href="#extracurricular">Extracurricular</a>
-        <a href="#awards">Awards</a>
-    </div>
-    <div class="content">
-        <div class="section" id="education">
-            <h2>Education</h2>
-            <h3>University of Cambridge</h3>
+---           
+title: "Marija Nedeljković's CV"          
+layout: default          
+---             
+<!DOCTYPE html>          
+<html lang="en">          
+<head>          
+    <meta charset="UTF-8">          
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">          
+    <title>Marija Nedeljković's CV</title>          
+    <style>          
+        body {          
+            display: flex;          
+            font-family: Arial, sans-serif;          
+            margin: 0;          
+            padding: 0;          
+        }          
+        .sidebar {          
+            width: 250px;          
+            background-color: #f4f4f4;          
+            padding: 20px;          
+            display: flex;          
+            flex-direction: column;          
+            align-items: center;          
+            text-align: center;          
+            position: fixed;          
+            height: 100vh;          
+        }          
+        .sidebar img {          
+            width: 120px;          
+            height: 120px;          
+            border-radius: 50%;          
+            margin-bottom: 20px;          
+        }          
+        .sidebar a {          
+            text-decoration: none;          
+            color: #333;          
+            margin: 10px 0;          
+            font-weight: bold;          
+        }          
+        .content {          
+            margin-left: 270px;          
+            padding: 20px;          
+            max-width: 800px;          
+        }          
+        .section {          
+            margin-bottom: 40px;          
+        }          
+        h1, h2 {          
+            color: #333;          
+        }          
+        @media (max-width: 768px) {          
+            body {          
+                flex-direction: column;          
+            }          
+            .sidebar {          
+                width: 100%;          
+                height: auto;          
+                position: static;          
+                padding-bottom: 20px;          
+            }          
+            .content {          
+                margin-left: 0;          
+            }          
+        }          
+    </style>          
+</head>          
+<body>          
+    <div class="sidebar">          
+        <img src="your-photo.jpg" alt="Marija's photo">          
+        <h1>Marija Nedeljković</h1>          
+        <p><strong>Data Scientist | Machine Learning Enthusiast</strong></p>          
+        <p>10 Mileve Marić, Kraljevo 36212, Serbia</p>          
+        <p>📞 +381643304868</p>          
+        <p>✉️ <a href="mailto:nedeljkovicmajaa@gmail.com">nedeljkovicmajaa@gmail.com</a></p>          
+        <a href="https://www.linkedin.com/in/marija-nedeljkovic-b51328212/" target="_blank">LinkedIn</a> |          
+        <a href="https://github.com/nedeljkovicmajaa" target="_blank">GitHub</a>          
+        <hr>          
+        <a href="#education">Education</a>          
+        <a href="#publications">Publications</a>          
+        <a href="#experience">Work Experience</a>          
+        <a href="#skills">Skills</a>          
+        <a href="#projects">Projects</a>          
+        <a href="#conferences">Conferences</a>          
+        <a href="#extracurricular">Extracurricular</a>          
+        <a href="#awards">Awards</a>          
+    </div>          
+    <div class="content">          
+        <div class="section" id="education">          
+            <h2>Education</h2>          
+            <h3>University of Cambridge</h3>          
             <p><strong>MPhil in Data Intensive Science</strong> (Oct 2024 – July 2025), Cambridge, UK<br>
             Objective: Understanding data science and machine learning for practical research applications.</p>
             <h3>University of Belgrade, Faculty of Electrical Engineering</h3>
