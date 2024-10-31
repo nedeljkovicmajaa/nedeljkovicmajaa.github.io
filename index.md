@@ -55,9 +55,9 @@ layout: default
             }          
             .sidebar {          
                 width: 100%;          
-                height: 0px;          
+                height: auto;          
                 position: static;          
-                padding-bottom: 20px;          
+                padding-bottom: 0px;          
             }          
             .content {          
                 margin-left: 0;          
