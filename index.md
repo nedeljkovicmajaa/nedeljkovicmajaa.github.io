@@ -18,13 +18,13 @@ layout: default
         .sidebar {          
             width: 300px;          
             background-color: #f4f4f4;          
-            padding: 15px;          
+            padding: 0px;          
             display: flex;          
             flex-direction: column;          
             align-items: center;          
             text-align: center;          
             position: fixed;          
-            height: 100vh;          
+            height: 200vh;          
         }          
         .sidebar img {          
             width: 120px;          
