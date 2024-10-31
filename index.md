@@ -1,5 +1,5 @@
 ---           
-title: "Marija Nedeljković's CV"          
+title: "Marija Nedeljković"          
 layout: default          
 ---             
 <!DOCTYPE html>          
@@ -7,7 +7,7 @@ layout: default
 <head>          
     <meta charset="UTF-8">          
     <meta name="viewport" content="width=device-width, initial-scale=1.0">          
-    <title>Marija Nedeljković's CV</title>          
+    <title>Marija Nedeljković</title>          
     <style>          
         body {          
             display: flex;          
@@ -18,7 +18,7 @@ layout: default
         .sidebar {          
             width: 250px;          
             background-color: #f4f4f4;          
-            padding: 20px;          
+            padding: 15px;          
             display: flex;          
             flex-direction: column;          
             align-items: center;          
@@ -40,7 +40,7 @@ layout: default
         }          
         .content {          
             margin-left: 270px;          
-            padding: 20px;          
+            padding: 50px;          
             max-width: 800px;          
         }          
         .section {          
@@ -69,13 +69,14 @@ layout: default
     <div class="sidebar">          
         <img src="your_photo.jpg" alt="Marija's photo">          
         <h1>Marija Nedeljković</h1>          
-        <p><strong>Data Scientist | Machine Learning Enthusiast</strong></p>          
+        <p><strong>MPhil in Data Intensive Science at the University of Cambridge</strong></p>     
         <p>10 Mileve Marić, Kraljevo 36212, Serbia</p>          
         <p>📞 +381643304868</p>          
         <p>✉️ <a href="mailto:nedeljkovicmajaa@gmail.com">nedeljkovicmajaa@gmail.com</a></p>          
-        <a href="https://www.linkedin.com/in/marija-nedeljkovic-b51328212/" target="_blank">LinkedIn</a> |          
-        <a href="https://github.com/nedeljkovicmajaa" target="_blank">GitHub</a>          
-        <hr>          
+        <p><a href="https://www.linkedin.com/in/marija-nedeljkovic-b51328212/" target="_blank">LinkedIn</a> |          
+        <a href="https://github.com/nedeljkovicmajaa" target="_blank">GitHub</a></p>   
+        <hr style="width:50%;text-align:left;margin-left:0">   
+        <hr>        
         <a href="#education">Education</a>          
         <a href="#publications">Publications</a>          
         <a href="#experience">Work Experience</a>          
