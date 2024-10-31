@@ -96,9 +96,8 @@ layout: default
             <p><strong>B.Sc. in Electrical Engineering and Computing</strong> (Oct 2020 – July 2024), Belgrade, Serbia<br>
             - GPA: 9.15/10 (Top 5% of class)<br>
             - Relevant Modules: Pattern Recognition, Neural Networks, Signal and Image Processing, etc.</p>
-        </div>
-
-        <div class="section" id="publications">
+     </div>
+    <div class="section" id="publications">
             <h2>Publications</h2>
             <ul>
                 <li><strong>Low-Dimensional EEG Classification for Alzheimer’s Disease Recognition</strong><br>
@@ -108,23 +107,19 @@ layout: default
                 Nedeljkovic M. & Stefanovic A., Petnica Journal, vol.78, no.1, pp.246-255</li>
             </ul>
         </div>
-
         <div class="section" id="experience">
             <h2>Work and Research Experience</h2>
             <h3>Biomedical Engineering Department, University of Belgrade</h3>
             <p><strong>Research Intern</strong> (Oct 2022 – Nov 2023)<br>
             - Analyzed EEG data of Alzheimer’s patients, using ML-based classifiers and dimensionality reduction.<br>
-            - Developed software for tracking social interactions in Drosophila (collaborated with Pharmacological Institute).</p>
-            
+            - Developed software for tracking social interactions in Drosophila (collaborated with Pharmacological Institute).</p>     
             <h3>LMU and Max-Planck Institute for Biological Intelligence</h3>
             <p><strong>Amgen Scholar and Research Intern</strong> (July 2022 – Sept 2022), Munich, Germany<br>
             - Conducted research in computational neuroscience, focusing on neural network analysis and ML-based classification.</p>
-
             <h3>New Enterprise Associate (Remote, San Francisco, USA)</h3>
             <p><strong>Part-time Data Analyst</strong> (Mar 2022 – May 2022)<br>
             - Analyzed alternative data with Python, graph networks, Pandas, and SQL, optimizing data processing operations.</p>
         </div>
-
         <div class="section" id="skills">
             <h2>Skills</h2>
             <ul>
@@ -132,17 +127,14 @@ layout: default
                 <li><strong>Frameworks & Tools:</strong> TensorFlow, PyTorch, scikit-learn, Git, Notion</li>
             </ul>
         </div>
-
         <div class="section" id="projects">
             <h2>Projects</h2>
             <p><strong>Variational Autoencoders for Brain Lesion Segmentation</strong> (2024)<br>
             Compared architectures for unsupervised segmentation of brain lesions in MRI images.</p>
-
             <p><strong>Radio Frequency Localization</strong> (2019)<br>
             Developed a localization system using radio frequency antennas, achieving a relative error of 1.42%.</p>
             <p>For more, view my <a href="https://github.com/nedeljkovicmajaa" target="_blank">GitHub Projects</a>.</p>
         </div>
-
         <div class="section" id="conferences">
             <h2>Conferences and Seminars</h2>
             <ul>
@@ -151,17 +143,14 @@ layout: default
                 <li><strong>Amgen Scholars Program Symposium</strong> (2022)<br>Presented a poster on auditory cortex neural representation.</li>
             </ul>
         </div>
-
         <div class="section" id="extracurricular">
             <h2>Extracurricular Activities</h2>
             <p><strong>Science and Engineering Center “PFE”</strong> (2019 – Present)<br>
             - Contributed to free education in AI, robotics, and applied physics.<br>
             - Organized over 25 seminars, supervised 10+ research projects, and led “PFEKV” club with 40+ members.</p>
-
             <p><strong>Undergraduate Teaching Assistant, University of Belgrade</strong> (2023 – 2024)<br>
             - Taught Object-Oriented Programming and signal processing in a lab environment.</p>
         </div>
-
         <div class="section" id="awards">
             <h2>Certifications & Awards</h2>
             <ul>
