@@ -55,7 +55,7 @@ layout: default
             }          
             .sidebar {          
                 width: 100%;          
-                height: auto;          
+                height: 0px;          
                 position: static;          
                 padding-bottom: 20px;          
             }          
