@@ -35,7 +35,7 @@ layout: default
         .sidebar a {          
             text-decoration: none;          
             color: #333;          
-            margin: 10px 0;          
+            margin: 4px 0;          
             font-weight: bold;          
         }          
         .content {          
