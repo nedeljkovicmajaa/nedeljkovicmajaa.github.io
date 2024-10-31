@@ -67,7 +67,7 @@ layout: default
 </head>          
 <body>          
     <div class="sidebar">          
-        <img src="your-photo.jpg" alt="Marija's photo">          
+        <img src="your_photo.jpg" alt="Marija's photo">          
         <h1>Marija Nedeljković</h1>          
         <p><strong>Data Scientist | Machine Learning Enthusiast</strong></p>          
         <p>10 Mileve Marić, Kraljevo 36212, Serbia</p>          
