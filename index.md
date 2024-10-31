@@ -16,7 +16,7 @@ layout: default
             padding: 0;          
         }          
         .sidebar {          
-            width: 250px;          
+            width: 300px;          
             background-color: #f4f4f4;          
             padding: 15px;          
             display: flex;          
@@ -39,7 +39,7 @@ layout: default
             font-weight: bold;          
         }          
         .content {          
-            margin-left: 270px;          
+            margin-left: 350px;          
             padding: 50px;          
             max-width: 800px;          
         }          
